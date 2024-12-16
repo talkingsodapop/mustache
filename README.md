@@ -1,8 +1,9 @@
 ## Mustache template render
 
-[mustache.js](https://github.com/janl/mustache.js)
+Published to JSR by Jenny
 
-![test](https://github.com/alosaur/mustache/workflows/test/badge.svg)
+forked from [github:alosaur/mustache](https://github.com/alosaur/mustache) which is in turn a fork of
+[github:janl/mustache.js](https://github.com/janl/mustache.js)
 
 ### How to use renderer in Alosaur
 
