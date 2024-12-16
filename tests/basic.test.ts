@@ -1,4 +1,4 @@
-import { assertEquals } from 'https://deno.land/std@0.85.0/testing/asserts.ts';
+import { assertEquals } from '@std/testing/asserts';
 import { renderFile } from '../mod.ts';
 const { test } = Deno;
 
